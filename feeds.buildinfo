@@ -6,3 +6,4 @@ src-git helloworld https://github.com/fw876/helloworld^374ff3b
 src-git kenzo https://github.com/kenzok8/openwrt-packages^5a106f3
 src-git small https://github.com/kenzok8/small^8a0b239
 src-git infinityfreedom https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git^abc7a2d
+src-git dailybonus https://github.com/jtzx082/luci-app-jd-dailybonus.git
